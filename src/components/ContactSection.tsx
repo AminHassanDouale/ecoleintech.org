@@ -76,7 +76,7 @@ export default function ContactSection() {
               {
                 icon: Mail,
                 title: 'Email',
-                content: 'amin.hassan@d-money.dj',
+                content: 'mahamoud.ali.hared@gmail.com',
                 color: 'from-emerald-500 to-emerald-600',
               },
               {
