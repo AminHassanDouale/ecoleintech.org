@@ -48,7 +48,7 @@ export default function Navbar() {
               transition={{ duration: 0.3 }}
             >
               <Image
-                src="/images/in_tech.png"
+                src="/images/in tech.jpg"
                 alt="inTec Djibouti"
                 width={120}
                 height={48}

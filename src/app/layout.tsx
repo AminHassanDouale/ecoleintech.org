@@ -44,7 +44,7 @@ export const metadata: Metadata = {
       "L'établissement scolaire d'excellence à Djibouti. Du Préscolaire au Lycée, inTec forme les leaders de demain.",
     images: [
       {
-        url: '/images/in_tech.png',
+        url: '/images/in tech.jpg',
         width: 1200,
         height: 630,
         alt: 'inTec Djibouti — Institut Technologique',
@@ -56,7 +56,7 @@ export const metadata: Metadata = {
     title: 'inTec Djibouti — Institut Technologique',
     description:
       "L'établissement scolaire d'excellence à Djibouti. Du Préscolaire au Lycée.",
-    images: ['/images/in_tech.png'],
+    images: ['/images/in tech.jpg'],
   },
   robots: {
     index: true,
@@ -82,8 +82,8 @@ const jsonLd = {
   description:
     "Institut Technologique de Djibouti — établissement scolaire d'excellence du Préscolaire au Lycée.",
   url: BASE_URL,
-  logo: `${BASE_URL}/images/in_tech.png`,
-  image: `${BASE_URL}/images/in_tech.png`,
+  logo: `${BASE_URL}/images/in tech.jpg`,
+  image: `${BASE_URL}/images/in tech.jpg`,
   address: {
     '@type': 'PostalAddress',
     streetAddress: 'Boulevard de la République',
