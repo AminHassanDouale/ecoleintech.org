@@ -70,7 +70,7 @@ export default function ContactSection() {
               {
                 icon: Phone,
                 title: 'Téléphone',
-                content: '+253 XX XX XX XX',
+                content: 'Tél: +253 21 34 18 90\nMob: +253 77 81 02 11',
                 color: 'from-amber-500 to-amber-600',
               },
               {

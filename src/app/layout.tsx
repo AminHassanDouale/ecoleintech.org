@@ -90,7 +90,7 @@ const jsonLd = {
     addressLocality: 'Djibouti Ville',
     addressCountry: 'DJ',
   },
-  telephone: '+253-XX-XX-XX-XX',
+  telephone: ['+253-21-34-18-90', '+253-77-81-02-11'],
   email: 'contact@intec-djibouti.dj',
   foundingDate: '2000',
   numberOfEmployees: { '@type': 'QuantitativeValue', value: 150 },
