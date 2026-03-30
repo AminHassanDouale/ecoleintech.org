@@ -4,9 +4,9 @@ import { motion, useInView } from 'framer-motion'
 import { Users, BookOpen, Award, Building2 } from 'lucide-react'
 
 const stats = [
-  { icon: Users, value: 2500, suffix: '+', label: 'Élèves', color: 'from-blue-500 to-blue-600' },
-  { icon: BookOpen, value: 150, suffix: '+', label: 'Enseignants', color: 'from-amber-500 to-amber-600' },
-  { icon: Award, value: 25, suffix: 'ans', label: "D'Excellence", color: 'from-emerald-500 to-emerald-600' },
+  { icon: Users, value: 150, suffix: '+', label: 'Élèves', color: 'from-blue-500 to-blue-600' },
+  { icon: BookOpen, value: 10, suffix: '+', label: 'Enseignants', color: 'from-amber-500 to-amber-600' },
+  { icon: Award, value: 5, suffix: 'ans', label: "D'Excellence", color: 'from-emerald-500 to-emerald-600' },
   { icon: Building2, value: 4, suffix: '', label: 'Niveaux', color: 'from-purple-500 to-purple-600' },
 ]
 
